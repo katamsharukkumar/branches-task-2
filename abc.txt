@@ -1,2 +1,3 @@
-HTML stands for Hypertext Markup Language
-Used to structure and create Web pages
+HTML stands for Hypertext Markup Language,
+Used to structure and create Web pages,
+It's a one of frontend technology
