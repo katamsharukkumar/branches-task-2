@@ -1,1 +1,2 @@
-HTML stands Hypertext Markup Language
+HTML stands for Hypertext Markup Language
+Used to structure and create Web pages
